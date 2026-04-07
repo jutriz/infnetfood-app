@@ -5,7 +5,7 @@ Aplicativo mobile desenvolvido em React Native com Expo para pedidos de comida, 
 https://snack.expo.dev/@julia_chuery/infnetfood-at-desenvolvimento-mobile-com-react-native
 
 ## Funcionalidades
-- Login com validação
+- Login com validação (email: Julia@gamil.com e senha: julia123)
 - Listagem de categorias
 - Produtos com imagens e preços
 - Carrinho de compras
